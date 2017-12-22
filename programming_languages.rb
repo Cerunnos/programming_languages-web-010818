@@ -1,4 +1,4 @@
-def oo_group(languages)
+def oo_style_languages(languages)
 
 end
 
