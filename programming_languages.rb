@@ -6,4 +6,5 @@ def reformat_languages(languages)
       new_hash[name][:style]||=[]
       new_hash[name][:style]<<type
   end
+  new_hash
 end
